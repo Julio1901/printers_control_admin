@@ -1,0 +1,7 @@
+exit
+cat atu.csv | while read line
+do
+SER=`echo $line | cut -d\; -f3`
+echo $SER
+echo $line\; > $SER.ant
+done

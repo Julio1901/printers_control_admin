@@ -1,0 +1,66 @@
+https://kb.opservices.com.br/knowledge-base/habilitando-snmp-linux/
+atenção, usar service snmpd restart
+
+# Comandos snmp OKI
+http://www.oidview.com/mibs/2001/OKIDATA-MIB.html
+
+
+
+alterar um dado que se repete diversas vezes no vim:
+
+%s/dado_a_ser_alterado/novo_dado_aqui/g
+
+
+
+
+
+transferir via ftp:
+
+sftp root@192.168.(ip do computador)
+
+get do programa ou arquivo
+
+
+
+
+
+
+deixar letras coloridas no padrão ANSI:
+	https://gist.github.com/natorsc/8de21b65036d5965346ad4a779e72e28
+
+
+
+Gerador de ASCII: Converter texto em texto ASCII (SWAMPLAND):
+	https://www.topster.pt/texto-para-ascii/swampland.html
+<<<<<<< HEAD
+
+
+Cadastrar chave SSH na máquina local e ligar ao github:
+	https://hcode.com.br/blog/adicionando-uma-chave-ssh-ao-github
+=======
+
+
+
+
+problema ao tentar realizar um git pull passe esses parâmetros: git pull origin master --allow-unrelated-histories  
+
+
+https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657
+
+
+Como direcionar saída do python para um arquivo externo:
+	https://pt.stackoverflow.com/questions/347936/como-salvar-o-resultado-de-sa%C3%ADda-de-um-script-python-para-um-arquivo-txt
+
+
+
+
+gerar arquivos de log com dinamicos incrementando variáveis no nome: 
+
+	https://pt.stackoverflow.com/questions/346028/gerar-arquivo-com-nome-din%C3%A2mico-python
+
+
+
+
+enviar e-mail com python:
+
+https://humberto.io/pt-br/blog/enviando-e-recebendo-emails-com-python/

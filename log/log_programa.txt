@@ -1,0 +1,308 @@
+ultima execução do programa realizada em : 
+sex 13 nov 2020 11:54:24 -03
+ultima execução do programa realizada em : 
+sex 13 nov 2020 12:01:03 -03
+ultima execução do programa realizada em : 
+sex 13 nov 2020 17:02:14 -03
+ultima execução do programa realizada em : 
+sáb 14 nov 2020 11:43:41 -03
+ultima execução do programa realizada em : 
+dom 15 nov 2020 11:45:43 -03
+ultima execução do programa realizada em : 
+seg 16 nov 2020 08:11:55 -03
+ultima execução do programa realizada em : 
+seg 16 nov 2020 08:35:49 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 08:41:52 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 10:51:54 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 10:55:55 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 11:03:50 -03
+ultima execução do programa realizada em : 
+seg 16 nov 2020 11:08:05 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 11:33:36 -03
+ultima execução do programa realizada em : 
+seg 16 nov 2020 11:43:02 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 12:01:00 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 12:04:59 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 16 nov 2020 17:01:36 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 17 nov 2020 08:11:55 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 17 nov 2020 12:01:07 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 17 nov 2020 15:13:06 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 17 nov 2020 17:01:39 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 18 nov 2020 08:11:55 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 18 nov 2020 12:01:20 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 18 nov 2020 17:01:21 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 19 nov 2020 08:11:38 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 19 nov 2020 12:01:20 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 19 nov 2020 17:01:38 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 20 nov 2020 08:12:16 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 20 nov 2020 12:01:23 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 20 nov 2020 17:01:19 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 23 nov 2020 08:12:16 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 23 nov 2020 12:01:16 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 23 nov 2020 17:01:09 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 24 nov 2020 12:01:23 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 24 nov 2020 17:01:47 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 25 nov 2020 08:11:24 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 25 nov 2020 12:01:27 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 25 nov 2020 17:01:20 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 26 nov 2020 12:00:48 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 26 nov 2020 17:00:17 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 27 nov 2020 12:01:15 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 27 nov 2020 17:00:18 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 30 nov 2020 11:33:24 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 30 nov 2020 12:00:49 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 30 nov 2020 17:01:21 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 01 dez 2020 08:11:24 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 01 dez 2020 12:00:48 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 01 dez 2020 17:01:06 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 02 dez 2020 08:11:07 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 02 dez 2020 12:00:44 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 02 dez 2020 17:01:02 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 03 dez 2020 08:11:06 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 03 dez 2020 12:00:47 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 03 dez 2020 17:01:03 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 04 dez 2020 08:11:07 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 04 dez 2020 12:00:50 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 04 dez 2020 17:01:23 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 07 dez 2020 08:11:39 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 07 dez 2020 12:00:51 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 07 dez 2020 17:01:05 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 08 dez 2020 17:01:01 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 09 dez 2020 08:11:46 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 09 dez 2020 12:01:04 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 09 dez 2020 17:01:20 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 10 dez 2020 08:11:41 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 10 dez 2020 12:01:09 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 10 dez 2020 17:01:02 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 11 dez 2020 08:11:41 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 11 dez 2020 12:00:45 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 11 dez 2020 17:00:50 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 14 dez 2020 08:12:01 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 14 dez 2020 12:00:17 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 14 dez 2020 17:01:38 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 15 dez 2020 12:01:38 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 15 dez 2020 17:01:18 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 16 dez 2020 08:11:37 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 16 dez 2020 12:01:03 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 16 dez 2020 17:01:22 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 17 dez 2020 12:01:23 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qui 17 dez 2020 17:01:19 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 18 dez 2020 12:01:40 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 18 dez 2020 17:00:18 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 21 dez 2020 12:01:39 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 21 dez 2020 17:01:34 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 22 dez 2020 08:12:38 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 22 dez 2020 12:01:42 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 22 dez 2020 16:20:50 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 22 dez 2020 17:01:41 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 23 dez 2020 12:01:25 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 23 dez 2020 17:01:37 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 28 dez 2020 08:11:56 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 28 dez 2020 12:01:25 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+seg 28 dez 2020 17:01:58 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 29 dez 2020 12:01:45 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+ter 29 dez 2020 17:01:55 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 30 dez 2020 12:01:30 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 30 dez 2020 17:01:39 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 08 jan 2021 08:11:46 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 08 jan 2021 12:01:24 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+sex 08 jan 2021 17:01:20 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 20 jan 2021 08:18:29 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 20 jan 2021 08:29:39 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 20 jan 2021 10:48:47 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 20 jan 2021 12:01:04 -03
+Python executado com sucesso
+ultima execução do programa realizada em : 
+qua 20 jan 2021 17:00:58 -03
+ultima execução do programa realizada em : 
+sex 22 jan 2021 09:34:05 -03
