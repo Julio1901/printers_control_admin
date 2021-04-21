@@ -1,5 +1,7 @@
 <h1>Printers control admin</h1>
-<p>Programa simples feito para ser implementado em rede afim de administrar a vida útil de toners de impressoras. O mesmo tem uma proposta simples mas funcional:</p>
+
+# Programa simples feito para ser implementado em rede afim de administrar a vida útil de toners de impressoras. O mesmo tem uma proposta simples mas funcional:
+
 * Colhe os dados das impressoras na rede através do protocolo SNMP implementado em um Shell Script
 * Trata os dados colhidos, confrontando os mesmos com históricos previamente salvos das impressoras
 * Analisa com base no modelo da impressora e número de cópias emitidas pela mesma desde a última substituição de toner se será necessário uma nova substituição em breve
