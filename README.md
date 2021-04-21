@@ -18,4 +18,4 @@
 
 
 ## Motivação:
-<p>Ao tomar posse do emprego no qual me encontro no momento, verifiquei que a rotina repetitiva de administração de toners de imperssoras era feita manualmente todos os dias. Sendo assim, iniciei a tarefa da criação desse pequeno programa que, uma vez implementado, possibilitou que os integrantes do setor de T.I se concentrem em outras tarefas no dia-a-dia uma vez que essa administração que tomava um tempo considerável, agora, é feita de forma automatizada. <p/>
+<p>Ao tomar posse do emprego no qual me encontro no momento, verifiquei que a rotina repetitiva de administração de toners de imperssoras era feita manualmente todos os dias. Sendo assim, iniciei a tarefa da criação desse pequeno programa que, uma vez implementado, possibilitou que os integrantes do setor de T.I se concentrem em outras tarefas no dia-a-dia pois, agora, essa administração que tomava um tempo considerável, é feita de forma automatizada. <p/>
