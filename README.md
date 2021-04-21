@@ -9,7 +9,7 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-<p>:exclamation: ATUALMENTE O PROJETO ESTÁ SENDO REFATORADO. O MESMO SE MOSTROU EXTREMAMENTE EFICAZ, PORÉM, UM NOVO CÓDIGO ESTÁ SENDO CONSTRUÍDO COM O PARADIGMA ORIENTADO À OBJETOS E INTEGRAÇÃO DA APLICAÇÃO À UM BANCO DE DADOS. O MESMO SERÁ CONSTRUÍDO COMO UM APLICATIVO WEB CONTANDO COM UMA INTERFACE GRÁFICA PARA O ADMINISTRADOR</p>
+<p>:exclamation: <b><i>atualmente o projeto está sendo refatorado. o mesmo se mostrou extremamente eficaz, porém, um novo código está sendo construído com o paradigma orientado à objetos e integração da aplicação à um banco de dados. o mesmo será construído como um aplicativo web contando com uma interface gráfica para o administrador</i></b></p>
 
 # Requeriments:
 
